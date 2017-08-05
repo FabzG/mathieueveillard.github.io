@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# blog
+Articles to be published on [blog.mathieueveillard.com](http://blog.mathieueveillard.com). Subjects include software development, photography and running.
 
-You can use the [editor on GitHub](https://github.com/mathieueveillard/mathieueveillard.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### CMS
+[Jekyll](https://github.com/jekyll/jekyll) (minima theme customized) and [Disqus](https://disqus.com/) for comments.
 
-### Markdown
+### Content/Branching
+* One branch per article
+* Names should comply to a `field-short_title` pattern, e.g. `software-agility_praise_of_trust` for an article entitled _"Agility: a praise of trust"_
+* Merged on master once done
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### List of articles
+Date of publication | Field | Title | Link
+--------------------|-------|-------|-----
+- | Software | Agility: a praise of trust | [GitHub]()
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mathieueveillard/mathieueveillard.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### License
+Creative Commons Attribution Share Alike 4.0.
