@@ -1,5 +1,5 @@
-# blog
-Articles to be published on [blog.mathieueveillard.com](http://blog.mathieueveillard.com). Subjects include software development, photography and running.
+# mathieueveillard.github.io
+Articles to be published on [blog.mathieueveillard.com](http://blog.mathieueveillard.com). Subjects include software development, running and photography.
 
 
 ### CMS
