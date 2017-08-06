@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Récit d'un Marathon"
+date:   2017-08-06 10:01:09 +0200
+categories: running
+---
+Marathon de Paris 2017. Objectif : 3h07.
+
+Lever 4h. Plus aucune nuit ne me sépare de l’épreuve. J’ai attendu ces instants pendant des semaines et j’ai aimé cette attente. Je prends le métro en bout de ligne et suis alors le seul vêtu pour la course, mais la rame s’emplit station après station des mêmes hommes et femmes prêts à en découdre. On se jauge un peu, mais c’est bien dérisoire, et chacun finalement se rappelle que nous formons une grande communauté. On engage la discussion et on l’achève à regret au moment de rentrer dans nos sas respectifs.
+
+Je suis fier d'exhiber ce dossard “SAS 3h”. Tout reste à faire, mais je côtoie déjà de bons athlètes et je lis parfois dans les yeux de coureurs plus novices la même admiration que j’éprouvais il y a encore un an. Bientôt le départ, économiser l’énergie au maximum. Je m’assieds. 8h10 : départ des athlètes handisport. Applaudissements. 8h20 : départ des élites. Le cœur accélère sous l’excitation, 100bpm.
+
+8h22 : top départ. Descente des Champs Elysées face au soleil, encore bas sur l’horizon. 13km/h, c’est déjà rapide. Je me laisse volontiers doubler, préférant rester fidèle au plan établi avec mon entraîneur : entre 13,5 et 13,9km/h au premier semi selon la forme du jour, puis accélérer. Un Marathon, c’est un coup de pocker : aller suffisamment vite, parce que certaines minutes ne se rattraperont jamais, mais ne pas aller trop vite pour éviter la contre-performance.
+
+Ma vitesse moyenne s’établit à 13,9km/h au bout de 5km. L’entraîneur me rejoint au 6ème, beaucoup plus tôt que prévu : “allez, on fait notre sortie longue !”. Je ne l’ai compris qu’après, mais ses paroles m’ont affranchi de l’objectif du chrono jusqu’à un stade avancé du parcours. La course démarre véritablement au 33ème. Alors là, on est de toute façon seul face à la douleur et personne ne peut rien y faire. Nous échangeons quelques mots de temps en temps mais savourons avant tout le plaisir silencieux de courir ensemble. Ce Marathon est une partition, faite de silence dans le bois de Vincennes, du bruit feutré des pas sur l’asphalte et des vivats de la foule à nouveau au rendez-vous lorsqu’on revient à la ville. Nous sommes l’orchestre.
+
+J’ai rarement ressenti une telle aisance. La foulée est bonne, je respire aisément et savoure la sensation de l’air frais qui s’écoule sur ma peau. Le cardio tourne autour de 175bpm et la montre donne un temps guide à 3h02, 3h03. J’ai légèrement accéléré : la vitesse moyenne est à 14,0km/h. L’expression “courir en mode automatique” a du vrai : c’est à croire que quelqu’un d’autre court à ma place. Je suis bien là, mais je me vois courir. Nous passons le portique du premier semi. 1h30’28’’.
+
+La vitesse instantanée devient la vitesse moyenne du second semi : 14,2km/h. C’est bien, mais il va falloir tenir. Le temps guide indique 3h01, 3h00 par moments. Implicitement, c’est devenu mon nouvel objectif. Les kilomètres passent, on est déjà sur le chemin du retour. Descente sur les quais de Seine, traversée des tunnels, remontée en petits pas rapides et avec l’aide des bras. Je double beaucoup de coureurs. Le travail technique porte ses fruits, je “déroule” sans même y penser.
+
+L’entraîneur me laisse au km 27 : “continue comme ça et tout se passera bien”. Pourtant, les sensations ne sont plus tout à fait aussi bonnes. Focus sur la technique, rester concentré. Progressivement, le doute s’instaure. Il va falloir tenir ce rythme pendant 15km ! Passé les 30, les sensations se détériorent mais c’est au 33ème que je reçois véritablement le coup de massue. Quand on court un Marathon, on est prévenu, donc on avance ! Je compte les pas, de 1 jusqu’à 10 puis de 10 jusqu’à 1. “je-crois-en-toi”, “gauche-droite-gauche-droite”, “je-crois-en-toi”, mon mantra tourne en boucle dans l’espoir de contrer la petite voix qui dit stop. La douleur est là, inutile de le nier. Alors je l’observe et l’enveloppe, l’entoure, l’enroule comme si je la prenais entre mes mains. Comment vais-je tenir ? Mon corps me réclame d’arrêter, mais non, pas après tous ces mois d’effort ! L’acide lactique s’accumule dans les jambes, il me semble que ma foulée est devenue minuscule. Pourtant, le cardio et le souffle sont excellents. Je ne sais plus où j’en suis.
+
+35ème. Je retrouve un peu d’énergie, mais il reste encore 7km. Je n’arrive plus à étancher ma soif. Devant moi, un grand gaillard chancelle et s’effondre. Un spectateur vient à son secours. Je m’accroche. J’ai réglé ma montre pour n’avoir que la vitesse moyenne : 13,9km/h sur le second semi. Je ne sais pas quelle est ma vitesse instantanée et ne veux pas le savoir. Donc j’avance. Suis-je en train de donner le maximum ? La question m’obsède. Je me maudis. Ce sera ma dernière course. Un coureur me dépasse, à peine plus rapide que moi. Je lui emboîte le pas mais décroche au bout de 100m. Je dépasse un autre qui m’avait doublé plus tôt et l’entends rentrer dans ma foulée.
+
+40ème. Comment ? Je n’ai pas vu les précédents passer. Je n’arrive plus à tenir la foulée médio-pied et attaque par le talon. Ca n’est pas grave, il ne reste que 2km. 41ème. Ne pas regarder la montre et tout donner.
+
+42ème et sprint final. Place du Maréchal de Lattre de Tassigny, nous sortons du bois et le paysage s’ouvre à nouveau. La foule est massée derrière les barrières, quelqu’un a crié mon nom. Avenue Foch. Derniers 200m. Un instant, je me rêve kenyan, je me crois éthiopien. Je franchis la ligne à 15km/h. D’où me vient cette énergie ? Pourquoi ne l’ai-je pas donnée plus tôt ?
+
+3h02’35’’. La douleur a cessé mais je ne sais pas ce que je ressens. Ai-je tout donné ? Je rejoins les miens. Quelques heures pour réaliser et éprouver de la fierté. Quelques minutes de plus pour déterminer mon prochain objectif : 2h55.
