@@ -28,4 +28,4 @@ L’entraîneur me laisse au km 27 : “continue comme ça et tout se passera bi
 
 3h02’35’’. La douleur a cessé mais je ne sais pas ce que je ressens. Ai-je tout donné ? Je rejoins les miens. Quelques heures pour réaliser et éprouver de la fierté. Quelques minutes de plus pour déterminer mon prochain objectif : 2h55.
 
-![Speed and heartbeat](https://github.com/mathieueveillard/mathieueveillard.github.io/blob/master/_assets/1-Speed_And_Heartbeat.png)
+![Speed and heartbeat]({{ site.url }}/assets/1/Speed_And_Heartbeat.png)
