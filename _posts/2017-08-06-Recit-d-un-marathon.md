@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Récit d'un Marathon"
+title:  "[Running] Récit d'un Marathon"
 date:   2017-08-06 10:01:09 +0200
 categories: running
 ---
