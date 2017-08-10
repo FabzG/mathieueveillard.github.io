@@ -6,22 +6,22 @@ Articles to be published on [blog.mathieueveillard.com](http://blog.mathieueveil
 [Jekyll](https://github.com/jekyll/jekyll) (minima theme customized) and [Disqus](https://disqus.com/) for comments.
 
 
-### Content/Branching
+### Branching
 * One branch per article.
-* Branches are named after the unique `Id` of the article (cf. below).
-* Branches are merged on master once done, allowing publication. `git rebase master` before merge.
+* Branches should be named after the unique `Id` of the article (cf. below).
+* Branches should be merged on master once done, allowing publication. `git rebase master` before merge.
 * Good practice is to not delete branches, allowing to keep track of article versions.
 * Every commit modifying the blog itself (container), not the articles (content) should be made on `master`.
 
 
-### Proofing
-`bundle exec jekyll serve`
+### Titles
+[Front matter](https://jekyllrb.com/docs/frontmatter/)'s titles should comply to a `[Field] Title` pattern, e.g. `[Running] Récit d'un marathon`.
 
 
 ### Articles to be published
 Field | Title | Id | (Link) | (Link)
 ------|-------|----|--------|-------
-Software | Agilité : l'éloge de la confiance | | |
+Software | L'agilité ou l'éloge de la confiance | 2 | [GitHub](https://github.com/mathieueveillard/mathieueveillard.github.io/blob/2/_posts/2017-08-06-L-agilite-ou-l-eloge-de-la-confiance.md) |
 Software | La veille technologique | | |
 Software | Test Driven Development | | |
 Running | Récit d'un Marathon | 1 | [GitHub](https://github.com/mathieueveillard/mathieueveillard.github.io/blob/1/_posts/2017-08-06-Recit-d-un-marathon.md) | [Blog](http://blog.mathieueveillard.com/running/2017/08/06/Recit-d-un-marathon.html)
@@ -42,6 +42,10 @@ Photography | Retoucher ses photographies | | |
 Photography | Imprimer ses photographies | | |
 Photography | Le format RAW | | |
 Photography | La photographie au flash | | |
+
+
+### Proofing
+`bundle exec jekyll serve`
 
 
 ### License
