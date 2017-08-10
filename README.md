@@ -7,10 +7,11 @@ Articles to be published on [blog.mathieueveillard.com](http://blog.mathieueveil
 
 
 ### Content/Branching
-* One branch per article
-* Branches are named after the unique `Id` of the article (cf. below)
-* Branches are merged on master once done, allowing publication
-* Good practice is to not delete branches, allowing to keep track of article versions
+* One branch per article.
+* Branches are named after the unique `Id` of the article (cf. below).
+* Branches are merged on master once done, allowing publication. `git rebase master` before merge.
+* Good practice is to not delete branches, allowing to keep track of article versions.
+* Every commit modifying the blog itself (container), not the articles (content) should be made on `master`.
 
 
 ### Proofing
