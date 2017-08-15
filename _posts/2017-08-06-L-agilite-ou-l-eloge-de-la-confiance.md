@@ -16,7 +16,7 @@ Les cadres méthodologiques agiles existent depuis bientôt 20 ans et connaissen
 
 Des études ont montré qu'à ce jour, dans un contexte où les méthodologies séquentielles prédominent (cascade et cycle en V), __50% des fonctionnalités mises en œuvre ne sont jamais utilisées__. Cela signifie que nous pourrions faire des applications tout aussi utiles en deux fois moins de temps ou avec un budget deux fois inférieur. Comment en sommes-nous arrivés là ?
 
-Les méthodologies séquentielles proposent de concevoir un système dans son intégralité avant de le mettre en œuvre. On constate fréquemment que, ce faisant, la peur d'oublier une fonctionnalité et de ne pas pouvoir revenir en arrière conduit à une recherche effrenée d'exhaustivité. Lotir ne faisant que repousser le problème, seule une approche réellement incrémentale permet d'en sortir.
+Les méthodologies séquentielles proposent de concevoir un système dans son intégralité avant de le mettre en œuvre. On constate fréquemment que, ce faisant, la peur d'oublier une fonctionnalité et de ne pas pouvoir revenir en arrière conduit à une recherche effrénée d'exhaustivité. Lotir ne faisant que repousser le problème, seule une approche réellement incrémentale permet d'en sortir.
 
 Cette dérive ne se produirait pas si la prise en compte du retour d'expérience utilisateur était correctement organisée. Nous sommes habitués à concevoir des applications sans vraiment demander l'avis de ce dernier. Parce qu'après tout, avouons-le, on sait quand-même mieux que lui ce dont il a besoin, non ?
 
@@ -44,7 +44,7 @@ Atteindre ce niveau de confiance est un défi difficile à relever. C'est d'aill
 
 __Relever ce défi nécessite que client et fournisseur travaillent plus que jamais dans une optique de partenariat sincère et "généreuse"__. Nous devons lutter pour retrouver cet esprit, mis à mal depuis longtemps par les notions de "périmètre" et "d'écarts de périmètres" qui cristallisent tant de crispations dans les projets séquentiels.
 
-Quand il s'agit d'instaurer la confiance, la proximité physique du Product Owner client et de l'équipe de développement fournisseur est un atout considératible sinon nécessaire. Quand distance rime avec défiance, le rapprochement des personnes autorise une multitude d'interactions informelles qui offrent à notre inconscient toutes les réponses nécessaires pour faire que, consciemment, nous accordions notre confiance.
+Quand il s'agit d'instaurer la confiance, la proximité physique du Product Owner client et de l'équipe de développement fournisseur est un atout considérable sinon nécessaire. Quand distance rime avec défiance, le rapprochement des personnes autorise une multitude d'interactions informelles qui offrent à notre inconscient toutes les réponses nécessaires pour faire que, consciemment, nous accordions notre confiance.
 
 ![Relieved]({{ site.url }}/assets/2/Relieved.jpg)
 
@@ -58,7 +58,7 @@ Créer les conditions pour que chacun se sente investi de responsabilités est u
 
 Plus de chef de projet, donc, mais un _Scrum Master_ au service de l'équipe, avec une différence fondamentale : le premier dirige, le second facilite et conseille. L’organisation interne des entreprises de services informatiques s’en trouve profondément chamboulée. Que faire du sacro-saint chef de projets ? [Certaines entreprises](http://www.theodo.fr/), parce qu'elles sont jeunes et n'ont connu que l'agilité, l'ont compris et se sont structurées en conséquence. Pour les autres, c'est un changement de culture profond.
 
-__Cette approche suscite de fortes rétiscences parce qu'elle se heurte à l'idée que la prise de responsabilités managériale est la seule réussite sociale possible__. Aussi bon soit-il, un développeur de 50 ans est vu comme quelqu'un qui n'a pas réussi à s'élever socialement. Pourquoi ? Comment expliquer que la voie dite "technique" soit à ce point déconsidérée, sociétalement et salarialement ? Quand aurons-nous enfin des développeurs "stars" français, reconnus au même titre que [Martin Fowler](https://twitter.com/martinfowler), [Dan Abramov](https://twitter.com/dan_abramov) ou [André Staltz](https://twitter.com/andrestaltz) ?
+__Cette approche suscite de fortes réticences parce qu'elle se heurte à l'idée que la prise de responsabilités managériale est la seule réussite sociale possible__. Aussi bon soit-il, un développeur de 50 ans est vu comme quelqu'un qui n'a pas réussi à s'élever socialement. Pourquoi ? Comment expliquer que la voie dite "technique" soit à ce point déconsidérée, sociétalement et salarialement ? Quand aurons-nous enfin des développeurs "stars" français, reconnus au même titre que [Martin Fowler](https://twitter.com/martinfowler), [Dan Abramov](https://twitter.com/dan_abramov) ou [André Staltz](https://twitter.com/andrestaltz) ?
 
 Cessons de dépeindre le développeur comme un solitaire produisant frénétiquement du code sans rien comprendre du contexte dans lequel il travaille ni prendre aucune décision. Accordons lui la place centrale qu'il mérite et qu'il va souvent chercher Outre-Atlantique à défaut de la trouver en France. Développer efficacement suppose une compréhension avancée de systèmes fortement complexes, une rigueur infaillible,  une grande connaissance de soi et de belles capacités relationnelles. Qu’est-ce qu’un bon développeur sinon déjà un architecte en devenir ?
 
