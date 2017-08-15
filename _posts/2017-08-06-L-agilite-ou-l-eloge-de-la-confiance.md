@@ -65,7 +65,7 @@ Cessons de dépeindre le développeur comme un solitaire produisant frénétique
 Loin de moi l'idée que l'on puisse se passer de management, bien au contraire. Mais souhaitons ensemble une direction recentrée sur sa fonction première : orienter, inspirer et fédérer en donnant du sens au travail. Comme [André Comte-Sponville](https://www.youtube.com/watch?v=TBuRaS1L6aI) a su l'expliquer de manière lumineuse, un manager devrait tenter de répondre à la question _"pourquoi travailler ?"_ plutôt qu'à la question _"comment travailler ?"_.
 
 
-Cet article avait pour but de démontrer que l'agilité n'est pas une méthodologie projet mais bien un __projet de société__ fondé sur la confiance. Certains parleront d'utopie, soit, mais pourquoi ne pas y aspirer et faire le premier pas ? La meilleure façon de savoir si l'on peut faire confiance à quelqu'un, c'est de lui faire confiance.
+Cet article avait pour but de démontrer que l'agilité n'est pas une méthodologie projet mais bien un __projet de société__ fondé sur la confiance. Certains parleront d'utopie, soit, mais pourquoi ne pas y aspirer et faire le premier pas ? __La meilleure façon de savoir si l'on peut faire confiance à quelqu'un, c'est de lui faire confiance__.
 
 ![First step]({{ site.url }}/assets/2/First_Step.jpg)
 
