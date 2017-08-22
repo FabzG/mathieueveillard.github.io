@@ -14,7 +14,7 @@ Les cadres méthodologiques agiles existent depuis bientôt 20 ans et connaissen
 
 ### Faire confiance… à l’utilisateur !
 
-Dans un contexte où les méthodologies séquentielles prédominent, Jim Johnson, président du Standish Group, estime que __45% des fonctionnalités mises en œuvre ne sont jamais utilisées__ _(1)_. Cela signifie que nous pourrions faire des applications tout aussi utiles en deux fois moins de temps ou avec un budget deux fois inférieur. Comment en sommes-nous arrivés là ?
+Dans un contexte où les méthodologies séquentielles prédominent, Jim Johnson, président du Standish Group, estime que __45% des fonctionnalités mises en œuvre ne sont jamais utilisées__ (1). Cela signifie que nous pourrions faire des applications tout aussi utiles en deux fois moins de temps ou avec un budget deux fois inférieur. Comment en sommes-nous arrivés là ?
 
 Les méthodologies séquentielles (cascade et cycle en V) proposent de concevoir un système dans son intégralité avant de le mettre en œuvre. On constate fréquemment que, ce faisant, la peur d'oublier une fonctionnalité et de ne pas pouvoir revenir en arrière conduit à une recherche effrénée d'exhaustivité. Lotir ne faisant que repousser le problème, seule une approche réellement incrémentale permet d'en sortir.
 
@@ -34,7 +34,7 @@ __Nous, informaticiens, devons donc nous déclarer "incompétents" et faire conf
 ### Gagner la confiance du client
 Posons-le tout de suite : __le besoin étant dicté au fur et à mesure par l’utilisateur et non le client, agilité et engagement de résultat (cadre contractuel forfaitaire) ne sont pas compatibles__. Un fournisseur ne peut pas s'engager à réaliser "quelque chose" quand ce "quelque chose" n'est pas identifié au départ.
 
-Notons, parce que la confusion est fréquente, que l'engagement de moyens du fournisseur n'est en rien incompatible avec le fait pour le client de disposer d'un budget. Ce budget représente ce que le client est capable et prêt à dépenser sans toutefois que le périmètre fonctionnel de l'application soit clairement défini. Le _budget_ d'un client n'est donc pas l'_engagement forfaitaire_ d'un fournisseur.
+Notons, parce que la confusion est fréquente, que le client dispose malgré tout le plus souvent d'un budget. Ce budget représente ce qu'il est capable et prêt à dépenser pour donner vie à une application. Le _budget_ d'un client n'est donc pas l'_engagement forfaitaire_ d'un fournisseur.
 
 Nous mettons ainsi le doigt sur l'une des principales difficultés de l'agilité : une très grande confiance doit exister entre un client et son fournisseur pour qu'un projet puisse se dérouler dans le cadre d'un simple engagement de moyens, qui implique que le risque financier soit entièrement assumé par le client. __En renonçant à tout engagement forfaitaire, le client reconnaît la responsabilité qui est la sienne dans la réussite du projet__ : à lui de prioriser les fonctionnalités à mettre en œuvre, de fournir les informations en temps et en heure et de décider sans délai. Le [Guide Scrum](https://www.scrumguides.org/docs/scrumguide/v1/Scrum-Guide-FR.pdf) est très explicite à ce sujet :
 
@@ -54,7 +54,7 @@ Quand il s'agit d'instaurer la confiance, la proximité physique du Product Owne
 ### Faire confiance à l’équipe de développement
 Il serait temps, enfin, de faire confiance aux membres de l'équipe de développement, qu'il s'agisse d'analystes/concepteurs fonctionnels ou de développeurs. Ne sont-ils pas les mieux à même d'évaluer la complexité d'une fonctionnalité à mettre en œuvre ? Ne sont-ils pas suffisamment autonomes et responsables pour améliorer d'eux-mêmes leur productivité ?
 
-Créer les conditions pour que chacun se sente investi de responsabilités est un formidable levier de motivation des équipes. [Le cadre méthodologique Scrum](https://www.scrumguides.org/docs/scrumguide/v1/Scrum-Guide-FR.pdf) pousse le principe à l'extrême et promeut leur auto-gestion, ce qui n'est pas sans rappeler les nouvelles formes d'organisation du travail, dites "horizontales", décrites par Frédéric Laloux dans son ouvrage [_Reinventing Organizations_](https://www.amazon.fr/dp/2354561059).
+Créer les conditions pour que chacun se sente investi de responsabilités est un formidable levier de motivation des équipes. [Le cadre méthodologique Scrum](https://www.scrumguides.org/docs/scrumguide/v1/Scrum-Guide-FR.pdf) pousse le principe à l'extrême et promeut leur auto-gestion, ce qui n'est pas sans rappeler les nouvelles formes d'organisation du travail, dites "horizontales", décrites par Frédéric Laloux dans son ouvrage [Reinventing Organizations](https://www.amazon.fr/dp/2354561059).
 
 Plus de chef de projets, donc, mais un _Scrum Master_ au service de l'équipe, avec une différence fondamentale : le premier dirige, le second facilite et conseille. L’organisation interne des entreprises de services informatiques s’en trouve profondément chamboulée. Que faire du sacro-saint chef de projets ? [Certaines entreprises](http://www.theodo.fr/), parce qu'elles sont jeunes et n'ont connu que l'agilité, l'ont compris et se sont structurées en conséquence. Pour les autres, c'est un changement de culture profond.
 
@@ -66,6 +66,8 @@ Ces propos ne remettent nullement en question l'utilité d'un management, bien a
 
 
 Cet article avait pour but de démontrer que l'agilité n'est pas une méthodologie projet mais bien un __projet de société__ fondé sur la confiance. Certains parleront d'utopie, soit, mais pourquoi ne pas y aspirer et faire le premier pas ? __La meilleure façon de savoir si l'on peut faire confiance à quelqu'un, c'est de lui faire confiance__.
+
+Réagissez à ces idées ou partagez vos expériences en la matière en laissant un commentaire !
 
 ![First step]({{ site.url }}/assets/2/First_Step.jpg)
 
