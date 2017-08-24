@@ -14,9 +14,9 @@ Les cadres méthodologiques agiles existent depuis bientôt 20 ans et connaissen
 
 ### Faire confiance… à l’utilisateur !
 
-Dans un contexte où les méthodologies séquentielles prédominent, Jim Johnson, président du Standish Group, estime que __45% des fonctionnalités mises en œuvre ne sont jamais utilisées__ (1). Cela signifie que nous pourrions faire des applications tout aussi utiles en deux fois moins de temps ou avec un budget deux fois inférieur. Comment en sommes-nous arrivés là ?
+Dans le domaine du développement d'applications de gestion, les méthodologies séquentielles prédominent. Dans ce contexte, Jim Johnson, président du Standish Group, estime que __45% des fonctionnalités mises en œuvre ne sont jamais utilisées__ (1). Cela signifie que nous pourrions faire des applications tout aussi utiles en deux fois moins de temps ou avec un budget deux fois inférieur. Comment en sommes-nous arrivés là ?
 
-Les méthodologies séquentielles (cascade et cycle en V) proposent de concevoir un système dans son intégralité avant de le mettre en œuvre. On constate fréquemment que, ce faisant, la peur d'oublier une fonctionnalité et de ne pas pouvoir revenir en arrière conduit à une recherche effrénée d'exhaustivité. Lotir ne faisant que repousser le problème, seule une approche réellement incrémentale permet d'en sortir.
+Les méthodologies séquentielles (cascade et cycle en V) proposent de concevoir un système dans son intégralité avant de le mettre en œuvre. On constate fréquemment que, ce faisant, la peur d'oublier une fonctionnalité et de ne pas pouvoir revenir en arrière conduit à une recherche effrénée d'exhaustivité. Lotir ne fait que repousser le problème car la définition des lots _ex ante_ ne laisse aucune place au retour d'expérience utilisateur.
 
 Cette dérive ne se produirait pas si la prise en compte du retour d'expérience utilisateur était correctement organisée. Nous sommes habitués à concevoir des applications sans vraiment demander l'avis de ce dernier. Parce qu'après tout, avouons-le, on sait quand-même mieux que lui ce dont il a besoin, non ?
 
@@ -34,15 +34,13 @@ __Nous, informaticiens, devons donc nous déclarer "incompétents" et faire conf
 ### Gagner la confiance du client
 Posons-le tout de suite : __le besoin étant dicté au fur et à mesure par l’utilisateur et non le client, agilité et engagement de résultat (cadre contractuel forfaitaire) ne sont pas compatibles__. Un fournisseur ne peut pas s'engager à réaliser "quelque chose" quand ce "quelque chose" n'est pas identifié au départ.
 
-Notons, parce que la confusion est fréquente, que le client dispose malgré tout le plus souvent d'un budget. Ce budget représente ce qu'il est capable et prêt à dépenser pour donner vie à une application. Le _budget_ d'un client n'est donc pas l'_engagement forfaitaire_ d'un fournisseur.
-
 Nous mettons ainsi le doigt sur l'une des principales difficultés de l'agilité : une très grande confiance doit exister entre un client et son fournisseur pour qu'un projet puisse se dérouler dans le cadre d'un simple engagement de moyens, qui implique que le risque financier soit entièrement assumé par le client. __En renonçant à tout engagement forfaitaire, le client reconnaît la responsabilité qui est la sienne dans la réussite du projet__ : à lui de prioriser les fonctionnalités à mettre en œuvre, de fournir les informations en temps et en heure et de décider sans délai. Le [Guide Scrum](https://www.scrumguides.org/docs/scrumguide/v1/Scrum-Guide-FR.pdf) est très explicite à ce sujet :
 
 > _"Le Product Owner est responsable de maximiser la valeur du produit et du travail de l’Équipe de Développement"_
 
 Atteindre ce niveau de confiance est un défi difficile à relever. C'est d'ailleurs pour cette raison que l'agilité est une modalité que l'on rencontre le plus souvent en dehors du cadre contractuel client-fournisseur, au sein de start-up, éditeurs de logiciels ou de grands groupes dont les équipes sont constituées exclusivement de salariés.
 
-__Relever ce défi nécessite que client et fournisseur travaillent plus que jamais dans une optique de partenariat sincère et généreuse__. Nous devons lutter pour retrouver cet esprit, mis à mal depuis longtemps par les notions de "périmètre" et "d'écarts de périmètres" qui cristallisent tant de crispations dans les projets séquentiels.
+__Relever ce défi nécessite que client et fournisseur travaillent plus que jamais dans une optique de partenariat sincère et généreuse__. Nous devons lutter pour retrouver cet esprit, mis à mal depuis longtemps par les notions de "périmètre" et "d'écarts de périmètre", qui cristallisent tant de crispations dans les projets séquentiels. De toute façon, il est fréquent que le client, au travers d'avenants successifs, reconnaisse être à l'origine d'une surcharge de travail et que l'engagement de résultat initial évolue _de facto_ vers un engagement de moyens.
 
 Quand il s'agit d'instaurer la confiance, la proximité physique du Product Owner client et de l'équipe de développement fournisseur est un atout considérable sinon nécessaire. Cette proximité autorise une multitude d'interactions informelles qui, inconsciemment, contribuent à faire tomber les barrières.
 
