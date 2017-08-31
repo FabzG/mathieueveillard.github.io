@@ -16,16 +16,17 @@ Les cadres méthodologiques agiles existent depuis bientôt 20 ans et connaissen
 
 Dans le domaine du développement d'applications de gestion, les méthodologies séquentielles prédominent. Dans ce contexte, Jim Johnson, président du Standish Group, estime que __45% des fonctionnalités mises en œuvre ne sont jamais utilisées__ (1). Cela signifie que nous pourrions faire des applications tout aussi utiles en deux fois moins de temps ou avec un budget deux fois inférieur. Comment en sommes-nous arrivés là ?
 
-Les méthodologies séquentielles (cascade et cycle en V) proposent de concevoir un système dans son intégralité avant de le mettre en œuvre. On constate fréquemment que, ce faisant, la peur d'oublier une fonctionnalité et de ne pas pouvoir revenir en arrière conduit à une recherche effrénée d'exhaustivité. Lotir ne fait que repousser le problème car la définition des lots _ex ante_ ne laisse aucune place au retour d'expérience utilisateur.
+Les méthodologies séquentielles (cascade et cycle en V) proposent de concevoir un système dans son intégralité avant de commencer sa mise en œuvre. On constate fréquemment que, ce faisant, la peur d'oublier une fonctionnalité et de ne pas pouvoir revenir en arrière (ou à un coût important) conduit à une recherche effrénée d'exhaustivité. Lotir ne fait que repousser le problème car la définition des lots _ex ante_ ne laisse aucune place au retour d'expérience utilisateur, ou alors chèrement payée et remettant en cause les lots suivants.
 
-Cette dérive ne se produirait pas si la prise en compte du retour d'expérience utilisateur était correctement organisée. Nous sommes habitués à concevoir des applications sans vraiment demander l'avis de ce dernier. Parce qu'après tout, avouons-le, on sait quand-même mieux que lui ce dont il a besoin, non ?
+Cette dérive ne se produirait pas si la prise en compte du retour d'expérience utilisateur était correctement organisée notamment en l'impliquant dans le processus dès le début et en construisant l'outil avec lui. Nous sommes habitués à concevoir des applications sans vraiment demander l'avis de ce dernier. Parce qu'après tout, avouons-le, on sait quand-même mieux que lui ce dont il a besoin, non ?
 
 Non.
 
 Non, car nous ne sommes pas représentatifs de la population des utilisateurs, même quand leur métier nous est familier (cas des applications grand public, chacun sait par exemple comment réserver un billet de train). A cela plusieurs raisons :
-1. Nous concevons les applications au lieu de les découvrir ;
-2. Nous connaissons la grammaire implicite des systèmes informatiques, parce que c'est notre métier ;
+1. Nous concevons les applications au lieu de les découvrir et d'en être de simples utilisateurs ;
+2. Nous connaissons la grammaire implicite des systèmes informatiques, parce que c'est notre métier et donc ce qui est évident pour nous ne l'est pas forcément pour le public visé ;
 3. Nous sommes "quelques" concepteurs quand les utilisateurs se comptent en dizaines ou centaines de milliers voire en millions, voire... Facebook :)
+5. La conception d'une application est complexe et demande des expertises technique et métier du terrain que nous n'avons pas forcément ;
 4. Mais surtout, concevoir une application, ce n'est pas l'utiliser. Le temps et la répétition sont seuls à pouvoir apporter certaines réponses, seuls aussi à pouvoir poser certaines questions.
 
 __Nous, informaticiens, devons donc nous déclarer "incompétents" et faire confiance à l’utilisateur pour savoir ce dont il a besoin.__ L'une des vertus de l'agilité est justement de remettre l'utilisateur au centre : [Minimum Viable Product](https://en.wikipedia.org/wiki/Minimum_viable_product), [livraison continue](https://en.wikipedia.org/wiki/Continuous_delivery) et tests utilisateurs sont autant de moyens d'organiser le recueil régulier de ce feedback, sans lequel il n'est pas de bonne application.
@@ -42,7 +43,7 @@ Atteindre ce niveau de confiance est un défi difficile à relever. C'est d'aill
 
 __Relever ce défi nécessite que client et fournisseur travaillent plus que jamais dans une optique de partenariat sincère et généreuse__. Nous devons lutter pour retrouver cet esprit, mis à mal depuis longtemps par les notions de "périmètre" et "d'écarts de périmètre", qui cristallisent tant de crispations dans les projets séquentiels. De toute façon, il est fréquent que le client, au travers d'avenants successifs, reconnaisse être à l'origine d'une surcharge de travail et que l'engagement de résultat initial évolue _de facto_ vers un engagement de moyens.
 
-Quand il s'agit d'instaurer la confiance, la proximité physique du Product Owner client et de l'équipe de développement fournisseur est un atout considérable sinon nécessaire. Cette proximité autorise une multitude d'interactions informelles qui, inconsciemment, contribuent à faire tomber les barrières.
+Quand il s'agit d'instaurer la confiance, la proximité physique du Product Owner client et de l'équipe de développement fournisseur est un aspect nécessaire. Cette proximité permet une multitude d'interactions informelles qui, inconsciemment, contribuent à faire tomber les barrières. Travaillant ensemble, le client et le fournisseurs voient les impacts de leurs décisions ou actions sur l'autre la relation se transforme de client fournisseur en un mode coopératif.
 
 ![Relieved]({{ site.url }}/assets/2/Relieved.jpg)
 
